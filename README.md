@@ -465,3 +465,26 @@ ai-developer-tools, ai-pair-programming, vibe-coding, skill, skills, SKILL.md, r
 claude-code, gemini-cli, codex-cli, antigravity, cursor, github-copilot, opencode,
 agentic-skills, ai-coding, llm-tools, ai-agents, autonomous-coding, mcp
 ```
+---
+
+## 👥 Repo Contributors
+
+We officially thank the following contributors for their help in making this repository awesome!
+
+- 1bcMax
+- Ahmed Rehan
+- arathiesh
+- BenedictKing
+- GuppyTheCat
+- Ianj332
+- krisnasantosa15
+- Mohammad Faiz
+- Nguyen Huu Loc
+- Owen Wu
+- sck_0
+- sickn33
+- SuperJMN
+- Tiger-Foxx
+- Viktor Ferenczi
+- “vuth-dogo”
+- zebbern
