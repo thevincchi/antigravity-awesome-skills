@@ -11,6 +11,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [3.1.0] - 2026-01-26 - "Stable & Deterministic"
+
+### Fixed
+
+- **CI/CD Drift**: Resolved persistent "Uncommitted Changes" errors in CI by making the index generation script deterministic (sorting by name + ID).
+- **Registry Sync**: Synced `README.md` and `skills_index.json` to accurately reflect all 253 skills (restoring missing entries).
+- **Maintenance**: Updated `MAINTENANCE.md` with strict protocols for handling generated files.
+
+### Changed
+
+- **Documentation**: Added `docs/CI_DRIFT_FIX.md` as a canonical reference for resolving drift issues.
+- **Guidance**: Updated `GETTING_STARTED.md` counts to match the full registry.
+
 ## [3.0.0] - 2026-01-25 - "The Governance Update"
 
 ### Added
